@@ -1,0 +1,3 @@
+# Credit Card Fraud Detection Using Machine Learning Algorithms
+This project aims to detect fraudulent transactions in credit card data using various machine learning algorithms. The dataset used contains anonymized credit card transactions, and the goal is to classify transactions as either fraudulent or legitimate. 
+The project uses machine learning techniques to identify fraudulent credit card transactions. It leverages various algorithms, including Logistic Regression, SVM, K-Nearest Neighbors, Decision Tree, and Random Forest. The workflow includes data preprocessing, oversampling and undersampling techniques to handle class imbalance, model training, and evaluation.
